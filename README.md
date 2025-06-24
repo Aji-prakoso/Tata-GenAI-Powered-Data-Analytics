@@ -1,3 +1,3 @@
 # Tata GenAI Data Analytics
 
-### Use Case : Credit Delinquency
+### Use Case : Customer Credit Delinquency
